@@ -1,4 +1,4 @@
-# 🧬 Bio Sciences Dashboard*
+# 🧬 Bio Sciences Dashboard
 
 **Bio Sciences Dashboard*** is an AI-powered chatbot that makes NASA’s decades of space biology research accessible to everyone.  
 It provides clear, easy-to-understand answers to complex questions using verified NASA publications.
